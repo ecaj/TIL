@@ -34,12 +34,14 @@ curl get.pow.cx | sh
 Clone a github repository
 ```shell
 git clone https://github.com/ecaj/TIL ~/GitHub/TIL
-```shell
-Create and edit `config.ru` file
 ```
+
+Create and edit `config.ru` file
+```shell
 cd ~/GitHub/TIL
 sudo vim config.ru
 ```
+
 Add the following:
 ```ruby
 require 'rubygems'
@@ -55,6 +57,7 @@ Precious::App.set(:gollum_path, gollum_path)
 Precious::App.set(:default_markup, :markdown) # set your favorite markup language
 Precious::App.set(:wiki_options, wiki_options)
 run Precious::App
+```
 
 
 ## Reference
