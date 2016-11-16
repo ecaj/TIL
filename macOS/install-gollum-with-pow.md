@@ -28,16 +28,6 @@ gem install gollum
 curl get.pow.cx | sh
 
 ```
-
-Test python
-```python
-import some.library
-
-def foo():
-   return 2^9
-```
-
-
 ## Reference
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
 - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra)
