@@ -1,5 +1,5 @@
 # Install gollum and pow
-Use [gollum](https://github.com/gollum/gollum/wiki) and [pow](http://pow.cx) to view and edit Today I learned from GitHub
+Use [gollum](https://github.com/gollum/gollum/wiki) and [pow](http://pow.cx) to view and edit GitHub repo Today I Learned locally.
 
 ## Installation
 ```shell
