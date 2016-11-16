@@ -11,7 +11,7 @@ When creating a new topic, bbPress gives following error:
 add_filter( 'bbp_verify_nonce_request_url', 'my_bbp_verify_nonce_request_url', 999, 1 );
 function my_bbp_verify_nonce_request_url( $requested_url )
 {
-return 'https://server-address:port-number' . $_SERVER['REQUEST_URI'];
+return 'https://server-address:port-number' # change this accordingly . $_SERVER['REQUEST_URI'];
 }
 ```
 
