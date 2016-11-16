@@ -1,4 +1,4 @@
-# Add color to terminal in macOS
+# Add color to the terminal in macOS
 
 Edit `.bash_profile`.
 ```shell
