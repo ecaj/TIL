@@ -67,6 +67,10 @@ cd ~/.pow
 ln -s ~/GitHub/TIL til.wiki
 ```
 
+## Troubleshooting
+### --live-preview doesn't work with Safari on macOS Sierra
+Live-preview shows up fine in Chrome but fails to show up in Safari.
+
 ## Reference
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
 - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra)
