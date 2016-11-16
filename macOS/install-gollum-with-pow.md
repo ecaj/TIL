@@ -21,6 +21,12 @@ ssh -T git@github.com
 # install icu4c
 brew install icu4c
 
+# install gollum
+gem install gollum
+
+# install pow
+curl get.pow.cx | sh
+
 ```
 
 
