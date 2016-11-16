@@ -23,7 +23,7 @@ ssh -T git@github.com
 brew install icu4c
 
 # install gollum
-$ gem install gollum
+gem install gollum
 gem install github-markdown
 
 # install pow
