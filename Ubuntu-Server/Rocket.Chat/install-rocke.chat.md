@@ -1,10 +1,12 @@
+# Install Rocket.Chat
+
 ## Install with Snap
-```Shell
+```bash
 sudo snap install rocketchat-server
 ```
 
 ## Install with Docker
-```Shell
+```bash
 sudo apt update && sudo apt upgrade
 sudo apt install -y git
 curl -fsSL https://get.docker.com/ | sh
