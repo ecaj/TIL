@@ -30,11 +30,12 @@ curl get.pow.cx | sh
 ```
 
 Test python
-```
+```Python
 import some.library
 
 def foo():
    return 2^9
+```
 
 
 ## Reference
