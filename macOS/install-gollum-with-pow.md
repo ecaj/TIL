@@ -30,7 +30,7 @@ curl get.pow.cx | sh
 ```
 
 Test python
-```Python
+```python
 import some.library
 
 def foo():
