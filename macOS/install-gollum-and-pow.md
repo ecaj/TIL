@@ -71,3 +71,4 @@ ln -s ~/GitHub/TIL til.wiki
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
 - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra)
 - [GitHub | gollum installation](https://github.com/gollum/gollum/wiki/Installation)
+- [빠르고 가벼운 개인용 마크다운 위키 - 비트버킷과 골룸을 활용](https://nolboo.kim/blog/2013/12/17/markdown-wiki-bitbucket-gollum/)
