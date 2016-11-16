@@ -1,4 +1,4 @@
-```shell
+```bash
 # install Homebrew
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
@@ -28,6 +28,7 @@ gem install gollum
 curl get.pow.cx | sh
 
 ```
+
 ## Reference
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
 - [Setup Ruby On Rails on macOS 10.12 Sierra](https://gorails.com/setup/osx/10.12-sierra)
