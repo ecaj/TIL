@@ -72,7 +72,7 @@ ln -s ~/GitHub/TIL til.wiki
 Live-preview shows up fine in Chrome but fails to show up in Safari.
 
 Environment:
-- macOS Sierra
+- macOS Sierra 10.12.1
 - Safari 10.0.1
 - Javascript Enabled on Safari
 
