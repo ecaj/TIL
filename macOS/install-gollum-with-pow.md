@@ -29,6 +29,13 @@ curl get.pow.cx | sh
 
 ```
 
+Test python
+```
+import some.library
+
+def foo():
+   return 2^9
+
 
 ## Reference
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
