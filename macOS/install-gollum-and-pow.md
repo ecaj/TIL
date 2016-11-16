@@ -69,7 +69,8 @@ ln -s ~/GitHub/TIL til.wiki
 
 ## Troubleshooting
 ### live-preview not working
-Live-preview shows up fine in Chrome but fails to show up in Safari. <br>
+Live-preview shows up fine in Chrome but fails to show up in Safari.
+
 Environment:
 - macOS Sierra
 - Safari 10.0.1
