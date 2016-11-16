@@ -58,7 +58,11 @@ Precious::App.set(:default_markup, :markdown) # set your favorite markup languag
 Precious::App.set(:wiki_options, wiki_options)
 run Precious::App
 ```
-
+Symlink the repo into `~/.pow`
+```shell
+cd ~/.pow
+ln -s ~/GitHub/TIL til.wiki
+```
 
 ## Reference
 - [Personal Wiki using GitHub and Gollum on OS X](http://www.nomachetejuggling.com/2012/05/15/personal-wiki-using-github-and-gollum-on-os-x/)
