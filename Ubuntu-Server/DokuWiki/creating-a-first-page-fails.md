@@ -1,5 +1,5 @@
 # Creating a first page fails
-After clean install, clicking on `Create this page` redirects to a blank page.<br>
+After clean install, clicking on "Create this page" redirects to a blank page.<br>
 Apache2 error log: `PHP Fatal error:  Uncaught Error: Call to undefined function utf8_decode() in /var/www/dokuwiki/inc/utf8.php:152\nStack`
 
 ## Solution
