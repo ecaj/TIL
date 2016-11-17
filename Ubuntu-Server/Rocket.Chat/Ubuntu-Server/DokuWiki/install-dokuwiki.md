@@ -24,7 +24,7 @@ Restart Apache2.
 ```shell
 sudo service apache2 restart
 ```
-Go to http://server-address/dokuwiki/install.php and start the initial configuration.
+Go to `http://server-address/dokuwiki/install.php` and start the initial configuration.
 Delete `install.php` file.
 ```shell
 sudo rm /var/www/html/dokuwiki/install.php
