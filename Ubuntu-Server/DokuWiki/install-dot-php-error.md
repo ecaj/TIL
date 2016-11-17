@@ -11,4 +11,4 @@ sudo apt install php-mbstring
 ```
 
 ## Reference
-- [](https://forum.dokuwiki.org/thread/6641)
+- [install.php error php](https://forum.dokuwiki.org/thread/6641)
