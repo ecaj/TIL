@@ -16,11 +16,22 @@ sudo tar xvf dokuwiki-stable.tgz
 sudo mv dokuwiki-*/ dokuwiki
 sudo chown -R www-data:www-data dokuwiki
 ```
-Edit apache2 config file.
+Edit apache2 config file. For directory `/var/www/`, replace `AllowOverride None` with `AllowOverride All`.
 ```shell
 sudo vim /etc/apache2/apache2.conf
-```. For directory `/var/www/`, replace `AllowOverride None` with `AllowOverride All`.
-Restart 
+```
+Restart Apache2.
+```shell
+sudo service apache2 restart
+```
+Go to http://server-address/dokuwiki/install.php and start the initial configuration.
+Delete `install.php` file.
+```shell
+sudo rm /var/www/html/dokuwiki/install.php
+```
+
+## Troubleshooting
+
 
 
 ## Reference
