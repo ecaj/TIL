@@ -1,4 +1,4 @@
-# Install congfiguration error
+# Install configuration error
 After installing DokuWiki, visiting the install.php page gives following error:
 
 >The installer found some problems, indicated below. You can not continue until you have fixed them.
