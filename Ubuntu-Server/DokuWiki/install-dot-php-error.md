@@ -2,8 +2,8 @@
 After installing DokuWiki, visiting the install.php page gives following error:
 
 >The installer found some problems, indicated below. You can not continue until you have fixed them.
-
-    * PHP function utf8_decode is not available. Maybe your hosting provider disabled it for some reason?
+>
+>    * PHP function utf8_decode is not available. Maybe your hosting provider disabled it for some reason?
 
 
 ## Solution
