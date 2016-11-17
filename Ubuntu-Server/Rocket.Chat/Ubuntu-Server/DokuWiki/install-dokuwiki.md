@@ -31,6 +31,11 @@ Delete `install.php` file.
 sudo rm /var/www/html/dokuwiki/install.php
 ```
 
+## Running multiple DokuWiki on a single machine.
+Just install more DokuWiki into other subdirectories.
+To share a single DokuWiki engine through multiple wikis, see [DokuWiki Farms](https://www.dokuwiki.org/farms)
+>A wiki farm is a collection of wikis running on the same web server and sharing one parent wiki engine. So, by running just one single parent wiki, you can power hundreds of independent other wikis (aka “animals”). All animals share one set of plugins and templates but each of them can have a different set of enabled plugins, a different template and a different configuration. The concept of farms is also called “multi-site”, “multi-domain” or “sub-sites” in the context of other CMS.
+
 ## Troubleshooting
 
 
