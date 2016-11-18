@@ -1,3 +1,4 @@
+# MySQL Commands
 ```shell
 # login as root
 mysql -u root -p
