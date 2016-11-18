@@ -19,6 +19,7 @@ rsync -avuz --progress /var/www/wordpress/ root@192.168.1.10:/var/www/wordpress/
 -u, --update                skip files that are newer on the receiver
 -z, --compress              compress file data during the transfer
     --progress              show progress during transfer
+-A, --acls                  preserve ACLs (implies -p)
 ```
 
 ## Reference
