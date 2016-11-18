@@ -1,6 +1,6 @@
 # Sync files between servers with rsync
 ```shell
-rsync -av /var/www/wordpress/ root@192.168.1.10:/var/www/wordpress/
+rsync -avuz /var/www/wordpress/ root@192.168.1.10:/var/www/wordpress/
 ```
 
 ## Useful options
