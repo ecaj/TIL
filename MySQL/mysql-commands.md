@@ -17,7 +17,7 @@ If the above restoring method fails with `ERROR 1049 (42000): Unknown database [
 CREATE DATABASE [dbname];
 USE [dbname];
 ```
-Try again without the database name.
+Then, restore without the database name.
 ```shell
 mysql -u [username] -p[password] < [backupfile.sql]
 ```
